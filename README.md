@@ -1,5 +1,7 @@
 ## Focal_Loss Intro
 
+![](https://github.com/itamargol/Focal_Loss/blob/master/imbalance.jpg)
+
 **Keras lightest implementation for focal loss function.**
 
 Great mathematical solution for optimizing scenarios of unbalanced-classes.
