@@ -1,6 +1,6 @@
 ## Focal_Loss Intro
 
-Keras implementation for focal loss function.
+**Keras lightest implementation for focal loss function.**
 
 Great mathematical solution for optimizing scenarios of unbalanced-classes.
 Focal loss down-weights the well-classified examples (boosting-like concept). 
@@ -14,7 +14,7 @@ This has the net effect of putting more training emphasis on that data that is h
 
 ![](https://github.com/itamargol/Focal_Loss/blob/master/focal_loss.png)
 
-## How to use
+## How to use?
 
 ``` python
 from focal_loss import focal_loss
