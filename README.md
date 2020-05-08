@@ -8,9 +8,9 @@ This has the net effect of putting more training emphasis on that data that is h
 
 >...Hence if an example is easily classified, then its probability p would be >> 0.5(close to 0.9–1.0) and 1 — p which is close to zero causes C.E to produce a very small value, ending up in very low or no learning for that example. The term γ is the focusing parameter which adjusts the rate at which easy examples are downweighted...
 
-**[Link to the original paper](https://arxiv.org/abs/1708.02002)
+**[Link to the original paper](https://arxiv.org/abs/1708.02002)**
 
-**[Lighter Medium read](https://towardsdatascience.com/neural-networks-intuitions-3-focal-loss-for-dense-object-detection-paper-explanation-61bc0205114e)
+**[Lighter Medium read](https://towardsdatascience.com/neural-networks-intuitions-3-focal-loss-for-dense-object-detection-paper-explanation-61bc0205114e)**
 
 ![](https://github.com/itamargol/Focal_Loss/blob/master/focal_loss.png)
 
