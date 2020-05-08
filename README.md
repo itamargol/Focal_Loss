@@ -1,6 +1,8 @@
-## Focal_Loss Intro
+## Focal_Loss Implementation
 
 ![](https://github.com/itamargol/Focal_Loss/blob/master/imbalance.jpg)
+
+## Background
 
 **Keras lightest implementation for focal loss function.**
 
